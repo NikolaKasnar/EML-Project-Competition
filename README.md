@@ -1,1 +1,1 @@
-## This cointains my soultion for the task we had. The main theme is the game Rocket League. You can see more datils about the competition here: [(https://www.kaggle.com/competitions/194-025-ws-eml-project-competition/overview)],
+My soultion for the task we had. The main theme is the game Rocket League. You can see more datils about the competition here: [(https://www.kaggle.com/competitions/194-025-ws-eml-project-competition/overview)],
